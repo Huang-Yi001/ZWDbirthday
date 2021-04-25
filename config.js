@@ -36,7 +36,7 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "准备开始啦",
+        turn_on: "准备好了吗",
         play: "音乐起",
         bannar_coming: "横幅升",
         balloons_flying: "是不是还少点东西呀",
